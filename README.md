@@ -3,7 +3,8 @@
 **Dashboard snapshot**
 
 Page 2 of 6 of report, full interactive report [here](https://app.powerbi.com/view?r=eyJrIjoiZmI3MjZiNGMtODk0ZC00MDQzLTk5M2UtY2E1ZmY3NTBhZjM3IiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D&pageName=b5e4741066eb5107931a&pageName=b5e4741066eb5107931a)
-[![hr](assets/hr.png)](https://app.powerbi.com/view?r=eyJrIjoiZmI3MjZiNGMtODk0ZC00MDQzLTk5M2UtY2E1ZmY3NTBhZjM3IiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D&pageName=b5e4741066eb5107931a&pageName=b5e4741066eb5107931a) 
+[![hr](assets/hr.png)]
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZmI3MjZiNGMtODk0ZC00MDQzLTk5M2UtY2E1ZmY3NTBhZjM3IiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D&pageName=b5e4741066eb5107931a&pageName=b5e4741066eb5107931a" target="_blank" rel="noopener noreferrer">Open Example in New Tab</a>
 
 **User Story:**
 
