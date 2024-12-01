@@ -21,10 +21,10 @@ Based on the model's analysis of attribute importance, derive the top 3 hypothes
 - Job Satisfaction: Low satisfaction with job roles or responsibilities.
 - Workplace Environment: Challenges related to the overall work environment and conditions.
 
-## 2. <a href="https://app.powerbi.com/view?r=eyJrIjoiZmI3MjZiNGMtODk0ZC00MDQzLTk5M2UtY2E1ZmY3NTBhZjM3IiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D&pageName=b5e4741066eb5107931a&pageName=b5e4741066eb5107931a" target="_blank" rel="noopener noreferrer">Sale Performance Report</a>
+## 2. <a href="https://app.powerbi.com/view?r=eyJrIjoiNjllZmI1YWMtMTIxZS00ZGZhLWI0OWEtNjQyYzBlZmZhMjMxIiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D&pageName=4859907eacd94f1b10b9" target="_blank" rel="noopener noreferrer">Sale Performance Report</a>
 **Dashboard snapshot**:
 
-Page 1 of 2 of report, full interactive report <a href="https://app.powerbi.com/view?r=eyJrIjoiZmI3MjZiNGMtODk0ZC00MDQzLTk5M2UtY2E1ZmY3NTBhZjM3IiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D&pageName=b5e4741066eb5107931a&pageName=b5e4741066eb5107931a" target="_blank" rel="noopener noreferrer">here</a> 
+Page 1 of 2 of report, full interactive report <a href="https://app.powerbi.com/view?r=eyJrIjoiNjllZmI1YWMtMTIxZS00ZGZhLWI0OWEtNjQyYzBlZmZhMjMxIiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D&pageName=4859907eacd94f1b10b9" target="_blank" rel="noopener noreferrer">here</a> 
 ![Sale Performance](assets/sale_performance.png)
 
 **User Story:**
